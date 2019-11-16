@@ -1,0 +1,53 @@
+body {
+    background: gray;
+    font-size: 80%;
+}
+.container {
+    background: white;
+    margin: 10px 0;
+    padding: 10px;
+}
+.big-inner-container {
+    margin: 0 auto;
+    width: 640px;
+}
+.inner-container {
+    margin: 0 auto;
+    width: 200px;
+}
+.text {
+    border: 4px solid black;
+    height: 40px;
+    width: 175px;
+    font-size: 16px;
+    border-radius: 10px 30px;
+    text-align: center;
+}
+.spacer {
+    height: 100px;
+}
+.searchbtn {
+    background: white;
+    width: 180px;
+    height: 50px;
+    border-radius: 50%;
+    border: 5px solid black;
+    text-align: center;
+    color: black;
+    font-size: 32px;
+    padding-top: 10px;
+}
+.searchbtn:hover {
+    background: black;
+    color: white;
+    rotate: 20px;
+    cursor: pointer;
+    transform: rotate(-.03turn);
+}
+.searchbtn:active {
+    background: black;
+    color: white;
+    rotate: 20px;
+    cursor: pointer;
+    transform: rotate(-.03turn);
+}
