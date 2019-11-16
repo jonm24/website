@@ -7,7 +7,7 @@ function initClient() {
     gapi.client.init({
         'apiKey': 'AIzaSyCWyqHJRZrQRPy8vhGCdE9q_ZdINuyJ998',
         'discoveryDocs': [discoveryUrl],
-        'clientId': '877138000037-k45gn7270igo97fbridmvqhibnimgp8c.apps.googleusercontent.com',
+        'clientId': '877138000037-g99ldraobhdaio5e7ovb6lppg2pst2qc.apps.googleusercontent.com',
         'scope': SCOPE
     }).then(function () {
         GoogleAuth = gapi.auth2.getAuthInstance();
