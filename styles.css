@@ -3,7 +3,6 @@ body {
     font-size: 80%;
 }
 .container {
-    background: white;
     margin: 10px 0;
     padding: 10px;
 }
@@ -42,12 +41,13 @@ body {
     color: white;
     rotate: 20px;
     cursor: pointer;
-    transform: rotate(-.03turn);
 }
 .searchbtn:active {
     background: black;
     color: white;
     rotate: 20px;
     cursor: pointer;
-    transform: rotate(-.03turn);
+}
+.hide {
+    display: none;
 }
