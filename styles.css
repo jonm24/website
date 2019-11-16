@@ -1,5 +1,5 @@
 body {
-    background: gray;
+    background: white;
     font-size: 80%;
 }
 .container {
@@ -24,7 +24,7 @@ body {
     text-align: center;
 }
 .spacer {
-    height: 100px;
+    height: 20vh;
 }
 .searchbtn {
     background: white;
