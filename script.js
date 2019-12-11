@@ -1,4 +1,3 @@
-
 var GoogleAuth;
 var SCOPE = 'https://www.googleapis.com/auth/youtube.force-ssl';
 gapi.load('client:auth2', initClient);
