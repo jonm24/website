@@ -50,10 +50,6 @@ h1 {
 	margin-left: 7.5%;
 	margin-top: 0;
 }
-h1:active {
-	color: white;
-	font-size: 6rem;
-}
 .main-container {
 	margin: 0 auto;
 	width: 75%;
